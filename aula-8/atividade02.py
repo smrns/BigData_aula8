@@ -1,4 +1,7 @@
-# Crie um algoritmo que: receba o peso total de peixe pescados no dia, verifique se houve excesso, calcule e retorne o valor da multa(se houver), mostre a mensagem correspondente na tela
+# Crie um algoritmo que: receba o peso total de peixe pescados no dia
+# verifique se houve excesso
+# calcule e retorne o valor da multa(se houver)
+# mostre a mensagem correspondente na tela
 
 def verificar_kg(peso_total):
     limite_diario = 100 #Kg
